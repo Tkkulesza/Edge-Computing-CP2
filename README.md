@@ -110,7 +110,7 @@ Visualize e simule o circuito diretamente pelo Wokwi:
 
 ### 4. Vídeo de Demonstração
 
-> _Link do YouTube a ser adicionado_
+[Assistir no YouTube](https://youtu.be/dgfMLBl5Csc?si=vAHC7bF7ARXvJR6F)
 
 ---
 
